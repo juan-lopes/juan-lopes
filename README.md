@@ -2,8 +2,6 @@
 
 :computer: Fullstack Software Engineer - C# | .NET | ASP.NET | JavaScript | Typescript | Angular | React | Razor | SQL | Elixir | Phoenix
 
-   ## <img src="https://komarev.com/ghpvc/?username=juan-lopes&color=green" alt="juan-lopes" />
-
 <div>
   <a href="https://github.com/juan-lopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
